@@ -2,12 +2,7 @@ console.log("connected")
 
 // Initialize Firebase
 var config = {
-    apiKey: "AIzaSyBwUiqLs7LWBlaX_sBHuOajw4Rm_sd3LgQ",
-    authDomain: "chat-game-repeat.firebaseapp.com",
-    databaseURL: "https://chat-game-repeat.firebaseio.com",
-    projectId: "chat-game-repeat",
-    storageBucket: "",
-    messagingSenderId: "1055844481675"
+    // removed to protect key info
   };
   firebase.initializeApp(config);
 
